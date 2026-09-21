@@ -36,4 +36,4 @@ Abra `analise_futebol_europeu.ipynb` no Jupyter ou VS Code e rode as células.
 ## 👤 Autor
 
 Daniel Santanna
-[LINK DO SEU LINKEDIN]
+[(https://www.linkedin.com/in/danieldev1/)]
